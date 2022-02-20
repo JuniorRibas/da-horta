@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "da-horta",
+    "slug": "da-horta",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "da-horta"
+}
